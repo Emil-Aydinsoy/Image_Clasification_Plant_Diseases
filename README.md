@@ -9,5 +9,7 @@ link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 Methodes used:
 Library used for Deap Learning: FastAI
 model : pretrained RESnet model
+learning methode: Fit one cycle
+About Fit_one_cycle : https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6
 
 Accuracy: >99%
